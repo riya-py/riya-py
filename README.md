@@ -11,7 +11,6 @@
 - 🤝 I'm looking for help with **Advanced AI/ML concepts and optimizing cross-border communication tools.**
 - 💬 Ask me about **Python, AI/ML, and hackathons.**
 - 📫 How to reach me **riya.rk006@gmail.com**
-- ⚡ Fun fact: I blend tech with creativity—analyzing data, building models, and crafting innovative solutions!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
