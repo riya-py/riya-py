@@ -1,6 +1,6 @@
 ![logo](https://github.com/user-attachments/assets/63a87325-cf4d-4af1-8aec-627dd0d8d372) 
  
-<h1 align="center">Hello World!, I'm Ria</h1>   
+<h1 align="center">Hello World! I'm Ria</h1>   
 <h3 align="center">A passionate AI Enthusiast from India</h3>
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riya-py&label=Profile%20views&color=0e75b6&style=flat" alt="riYa" /> </p>
