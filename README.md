@@ -7,7 +7,7 @@
 
 - 🔭 I'm currently working on data analysis projects, predictive modeling, and exploring advanced ML algorithms.
 - 🌱 I'm currently learning **Advanced ML algorithms, MLOps, and NLP.**
-- 👯 I'm looking to collaborate on **AI-driven apps and hackathon ideas.**
+- 👯 I'm looking to collaborate on **open source projects.**
 - 🤝 I'm looking for help with **Advanced AI/ML concepts and optimizing cross-border communication tools.**
 - 💬 Ask me about **Python, AI/ML, and hackathons.**
 - 📫 How to reach me **riya.rk006@gmail.com**
